@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Todo/static/css/main.38eec2ae.css",
+    "main.css": "/Todo/static/css/main.a4f34e94.css",
     "main.js": "/Todo/static/js/main.3ee2680c.js",
+    "static/media/cascadia-mono-latin-ext-400-normal.woff": "/Todo/static/media/cascadia-mono-latin-ext-400-normal.cabd56a2b776a7d4bf40.woff",
+    "static/media/cascadia-mono-latin-ext-400-normal.woff2": "/Todo/static/media/cascadia-mono-latin-ext-400-normal.7722bb39a63960101964.woff2",
     "index.html": "/Todo/index.html",
-    "main.38eec2ae.css.map": "/Todo/static/css/main.38eec2ae.css.map",
+    "main.a4f34e94.css.map": "/Todo/static/css/main.a4f34e94.css.map",
     "main.3ee2680c.js.map": "/Todo/static/js/main.3ee2680c.js.map"
   },
   "entrypoints": [
-    "static/css/main.38eec2ae.css",
+    "static/css/main.a4f34e94.css",
     "static/js/main.3ee2680c.js"
   ]
 }
