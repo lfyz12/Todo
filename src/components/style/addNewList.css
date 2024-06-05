@@ -1,0 +1,25 @@
+.add_new_post_form {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.new_post_input {
+    width: 70%;
+    height: 30px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffe3;
+    outline: 0;
+    padding-left: 2%;
+
+}
+
+.new_post_btn {
+    width: 20%;
+    height: 30px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ffffe3;
+}

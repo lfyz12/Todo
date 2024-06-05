@@ -1,0 +1,40 @@
+.footer {
+    margin: auto;
+    margin-top: 1%;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_btn_box {
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer_btn {
+    padding: 2px 5px;
+    background: transparent;
+    /*border: 1px solid rgba(0, 0, 0, .2);*/
+    /*border-radius: 5px;*/
+    border: 0;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.footer_btn_clear {
+    padding: 2px 5px;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.footer_btn:focus {
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 5px;
+}
+
+.footer_btn_clear:active {
+    box-shadow: 0 1px 1px black;
+}
